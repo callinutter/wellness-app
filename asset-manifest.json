@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wellness-app/static/css/main.dc0a3e99.chunk.css",
-    "main.js": "/wellness-app/static/js/main.16778b40.chunk.js",
-    "main.js.map": "/wellness-app/static/js/main.16778b40.chunk.js.map",
+    "main.js": "/wellness-app/static/js/main.79928594.chunk.js",
+    "main.js.map": "/wellness-app/static/js/main.79928594.chunk.js.map",
     "runtime-main.js": "/wellness-app/static/js/runtime-main.db4847d9.js",
     "runtime-main.js.map": "/wellness-app/static/js/runtime-main.db4847d9.js.map",
     "static/js/2.f80aab72.chunk.js": "/wellness-app/static/js/2.f80aab72.chunk.js",
@@ -10,13 +10,18 @@
     "index.html": "/wellness-app/index.html",
     "static/css/main.dc0a3e99.chunk.css.map": "/wellness-app/static/css/main.dc0a3e99.chunk.css.map",
     "static/js/2.f80aab72.chunk.js.LICENSE.txt": "/wellness-app/static/js/2.f80aab72.chunk.js.LICENSE.txt",
+    "static/media/breath-1.2d1a7e07.jpg": "/wellness-app/static/media/breath-1.2d1a7e07.jpg",
     "static/media/App.css": "/wellness-app/static/media/yoga-5.2a010864.jpg",
-    "static/media/yoga-2.25119665.jpg": "/wellness-app/static/media/yoga-2.25119665.jpg"
+    "static/media/food-1.c8d4fdc9.jpg": "/wellness-app/static/media/food-1.c8d4fdc9.jpg",
+    "static/media/plants-1.46e7b49b.jpg": "/wellness-app/static/media/plants-1.46e7b49b.jpg",
+    "static/media/video-1.59e75226.mp4": "/wellness-app/static/media/video-1.59e75226.mp4",
+    "static/media/yoga-2.25119665.jpg": "/wellness-app/static/media/yoga-2.25119665.jpg",
+    "static/media/yoga-3.09683236.jpg": "/wellness-app/static/media/yoga-3.09683236.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.db4847d9.js",
     "static/js/2.f80aab72.chunk.js",
     "static/css/main.dc0a3e99.chunk.css",
-    "static/js/main.16778b40.chunk.js"
+    "static/js/main.79928594.chunk.js"
   ]
 }
