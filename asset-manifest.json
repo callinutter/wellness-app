@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/wellness-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/wellness-app/static/js/main.30b22835.chunk.js",
-    "main.js.map": "/wellness-app/static/js/main.30b22835.chunk.js.map",
-    "runtime-main.js": "/wellness-app/static/js/runtime-main.4f8b0fd4.js",
-    "runtime-main.js.map": "/wellness-app/static/js/runtime-main.4f8b0fd4.js.map",
-    "static/js/2.ca8200d4.chunk.js": "/wellness-app/static/js/2.ca8200d4.chunk.js",
-    "static/js/2.ca8200d4.chunk.js.map": "/wellness-app/static/js/2.ca8200d4.chunk.js.map",
-    "static/js/3.44491803.chunk.js": "/wellness-app/static/js/3.44491803.chunk.js",
-    "static/js/3.44491803.chunk.js.map": "/wellness-app/static/js/3.44491803.chunk.js.map",
+    "main.css": "/wellness-app/static/css/main.dc0a3e99.chunk.css",
+    "main.js": "/wellness-app/static/js/main.16778b40.chunk.js",
+    "main.js.map": "/wellness-app/static/js/main.16778b40.chunk.js.map",
+    "runtime-main.js": "/wellness-app/static/js/runtime-main.db4847d9.js",
+    "runtime-main.js.map": "/wellness-app/static/js/runtime-main.db4847d9.js.map",
+    "static/js/2.f80aab72.chunk.js": "/wellness-app/static/js/2.f80aab72.chunk.js",
+    "static/js/2.f80aab72.chunk.js.map": "/wellness-app/static/js/2.f80aab72.chunk.js.map",
     "index.html": "/wellness-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/wellness-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ca8200d4.chunk.js.LICENSE.txt": "/wellness-app/static/js/2.ca8200d4.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/wellness-app/static/media/logo.103b5fa1.svg"
+    "static/css/main.dc0a3e99.chunk.css.map": "/wellness-app/static/css/main.dc0a3e99.chunk.css.map",
+    "static/js/2.f80aab72.chunk.js.LICENSE.txt": "/wellness-app/static/js/2.f80aab72.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wellness-app/static/media/yoga-5.2a010864.jpg",
+    "static/media/yoga-2.25119665.jpg": "/wellness-app/static/media/yoga-2.25119665.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f8b0fd4.js",
-    "static/js/2.ca8200d4.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.30b22835.chunk.js"
+    "static/js/runtime-main.db4847d9.js",
+    "static/js/2.f80aab72.chunk.js",
+    "static/css/main.dc0a3e99.chunk.css",
+    "static/js/main.16778b40.chunk.js"
   ]
 }
